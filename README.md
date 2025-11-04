@@ -19,3 +19,7 @@ A visually appealing travel-themed landing page with a modern, responsive design
 - **JavaScript** - Menu toggle interaction and simple UI logic
 
 ## Screenshots
+
+![Landing Page](screenshot.png)
+
+<p align="center">Landing Page</p><br>
