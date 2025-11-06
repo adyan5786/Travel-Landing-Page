@@ -2,6 +2,8 @@
 
 A visually appealing travel-themed landing page with a modern, responsive design. This project features a full-page background video, overlay effects, and interactive navigation for a sleek user experience.
 
+[Click to view the website](https://adyan5786.github.io/Travel-Landing-Page/)
+
 ## Features
 
 - **Full-page Video Background:** Showcases an immersive travel video to engage visitors immediately.
